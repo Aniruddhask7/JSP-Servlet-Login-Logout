@@ -37,7 +37,7 @@ The application allows a user to:
 | HTML | Frontend structure |
 | CSS | Frontend styling |
 | Apache Tomcat | Web server |
-| Eclipse / VS Code | Development environment |
+| Eclipse | Development environment |
 | Git | Version control |
 | GitHub | Source code hosting |
 
